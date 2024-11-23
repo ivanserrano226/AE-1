@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">AE-1</string>
+    <string name="salario_minimo">15876</string>
+    <string name="edad_minima">16</string>
+    <string name="salario_bruto_anual">Salario bruto anual</string>
+    <string name="numero_pagas">Nº Pagas</string>
+    <string name="grupo_profesional">G. Profesional</string>
+    <string name="edad">Edad</string>
+    <string name="discapacidad">Discapacidad</string>
+    <string name="estado_civil">Estado Civil</string>
+    <string name="numero_hijos">Nº Hijos</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="tu_salario_neto_es">TU SALARIO NETO ES</string>
+    <string name="salario_bruto_anual_es">SALARIO BRUTO ANUAL</string>
+    <string name="cero">0</string>
+    <string name="retenciones">RETENCIONES</string>
+    <string name="puntos">...</string>
+    <string name="posibles_deducciones">POSIBLES DEDUCCIONES</string>
+    <string name="no">No</string>
+    <string name="volver">VOLVER</string>
+    <string-array name="grupo_profesional">
+        <item>Ingeniero</item>
+        <item>Jefe Administrativo</item>
+        <item>Ayudante</item>
+        <item>Peon</item>
+        <item>Oficial</item>
+        <item>Menor de edad</item>
+    </string-array>
+    <string-array name="pagas">
+        <item>12</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="estado_civil">
+        <item>Soltero</item>
+        <item>Casado</item>
+        <item>Divorciado</item>
+        <item>Pareja de Hecho</item>
+    </string-array>
+    <string-array name="discapacidad">
+        <item>0</item>
+        <item>33</item>
+        <item>66</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="numero_hijos">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3 o más</item>
+    </string-array>
+</resources>
